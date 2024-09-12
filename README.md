@@ -1,4 +1,4 @@
-# Create Your First Chatbot with RASA NLU Model and Python
+# Chatbot with RASA NLU Model and Python
 
 This project aims to build a conversational agent for an e-commerce website using the Rasa framework. The chatbot will be able to understand and respond to various user inquiries related to products and orders.
 
